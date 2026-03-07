@@ -1,2 +1,17 @@
-# kmu-python-data
-kmu-python-data
+# Datasets for Python (I), Spring 2026
+
+## HW3 – Strings, Files, and Lists
+
+- clinic_log_small.txt
+
+- clinic_log_test.txt
+ 
+- clinic_log.txt
+
+## HW4 – Lists and Dictionaries
+
+- hospital_visits_small.txt
+
+- hospital_visits_test.txt
+
+- hospital_visits.txt
