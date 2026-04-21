@@ -1,5 +1,9 @@
 # Datasets for Python (I), Spring 2026
 
+## Lecture 7: Files
+
+- lec7_patient_log.txt
+
 ## HW3 – Strings, Files, and Lists
 
 - clinic_log_small.txt
