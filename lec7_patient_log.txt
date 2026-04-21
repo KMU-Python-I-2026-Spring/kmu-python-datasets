@@ -1,0 +1,50 @@
+--------------------------------
+Patient: John
+Age: 65
+Temp: 38.2
+HR: 88
+BP: 120/80
+Status: Fever
+--------------------------------
+Patient: Mary
+Age: 52
+Temp: 36.8
+HR: 72
+BP: 110/70
+Status: Normal
+--------------------------------
+Patient: David
+Age: 70
+Temp: 39.1
+HR: 95
+BP: 130/85
+Status: Fever
+--------------------------------
+Patient: Lisa
+Age: 45
+Temp: 37.0
+HR: 78
+BP: 115/75
+Status: Normal
+--------------------------------
+Patient: Kevin
+Age: 60
+Temp: 38.5
+HR: 90
+BP: 125/82
+Status: Fever
+--------------------------------
+Patient: Emma
+Age: 33
+Temp: 36.5
+HR: 70
+BP: 108/68
+Status: Normal
+--------------------------------
+Patient: Alex
+Age: 55
+Temp: 37.8
+HR: 85
+BP: 118/76
+Status: Mild Fever
+--------------------------------
